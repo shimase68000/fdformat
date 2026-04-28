@@ -45,7 +45,7 @@ The original source code is preserved here as-is.
 
 This workflow was useful when preparing many disks in sequence.
 
-In practice, it behaved like a toaster for floppy disks:\
+In practice, it behaved **like a toaster for floppy disks**:\
 insert a disk, wait briefly, and receive it automatically when formatted.
 
 ---
