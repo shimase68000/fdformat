@@ -10,7 +10,7 @@ FDFORMAT is an automated floppy disk formatter for the X68000.
 
 It was created as a personal utility for formatting many floppy disks efficiently.\
 Rather than manually formatting disks one by one, this tool turns the X68000 into a dedicated floppy disk formatting machine.\
-The tool minimizes user interaction — disks are formatted and ejected automatically, allowing continuous batch processing.\
+The tool minimizes user interaction — disks are formatted and ejected automatically, allowing continuous batch processing.
 
 The original source code is preserved here as-is.
 
